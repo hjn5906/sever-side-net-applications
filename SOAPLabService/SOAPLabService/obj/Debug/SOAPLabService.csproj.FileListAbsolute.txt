@@ -1,0 +1,40 @@
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\csc.exe
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\vbc.exe
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\SOAPLabService.dll.config
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\SOAPLabService.dll
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\SOAPLabService.pdb
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\obj\Debug\SOAPLabService.csprojResolveAssemblyReference.cache
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\obj\Debug\SOAPLabService.dll
+D:\Documents\Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\obj\Debug\SOAPLabService.pdb
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\csc.exe
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\System.Collections.Immutable.dll
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\System.Reflection.Metadata.dll
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\vbc.exe
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\VBCSCompiler.exe
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\roslyn\VBCSCompiler.exe.config
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\SOAPLabService.dll.config
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\SOAPLabService.dll
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\SOAPLabService.pdb
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\obj\Debug\SOAPLabService.csprojResolveAssemblyReference.cache
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\obj\Debug\SOAPLabService.dll
+D:\00 Documents\02 Classes\Server Programming\Visual Studio\Projects\SOAPLabService\SOAPLabService\obj\Debug\SOAPLabService.pdb
